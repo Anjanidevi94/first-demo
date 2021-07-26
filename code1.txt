@@ -1,0 +1,29 @@
+yubikey to be wiped out to re-use it again--- Ashfak
+
+
+****************************************
+
+
+Keynote application is not installing from self service / IST web (APPLE) .
+ When trying to install from self service it is redirecting to APPSTORE. 
+
+
+certificate Jamf enroll
+
+*********************************************
+In my mac,I'm not able to see Device Report-Update app in Self service. I need that for Druva Insync status updation.
+
+
+MOjave 
+
+
+BIGSUR ---- 
+
+*********************************************
+
+OS software Updation issue. Stopped while rebooting. Stuck on same screen.
+
+
+format no issues
+
+upgrade issues--- Naveen
